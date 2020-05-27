@@ -1,0 +1,14 @@
+F:\C#\L821\L821\bin\Debug\L821.exe.config
+F:\C#\L821\L821\bin\Debug\L821.exe
+F:\C#\L821\L821\bin\Debug\L821.pdb
+F:\C#\L821\L821\obj\Debug\L821.csprojAssemblyReference.cache
+F:\C#\L821\L821\obj\Debug\L821.Form1.resources
+F:\C#\L821\L821\obj\Debug\L821.Properties.Resources.resources
+F:\C#\L821\L821\obj\Debug\L821.csproj.GenerateResource.cache
+F:\C#\L821\L821\obj\Debug\L821.csproj.CoreCompileInputs.cache
+F:\C#\L821\L821\obj\Debug\L821.exe
+F:\C#\L821\L821\obj\Debug\L821.pdb
+F:\C#\L821\L821\obj\Debug\L821.Form2.resources
+F:\C#\L821\L821\obj\Debug\L821.Form3.resources
+F:\C#\L821\L821\obj\Debug\L821.Form4.resources
+F:\C#\L821\L821\obj\Debug\L821.Form5.resources
